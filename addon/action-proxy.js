@@ -1,3 +1,3 @@
-import Em from 'ember';
+import EmberObject from "@ember/object";
 
-export default Em.Object.extend(Em.ActionHandler);
+export default EmberObject.extend(Ember.ActionHandler);
